@@ -2,9 +2,9 @@
 this repo contains a demo of a custom made object detector that uses vision transformers that was shown at Western Universities Minds &amp; Machines Lecture Series
 
 
-**Prerequisites**&amp;
-> miniconda/anaconda installed&amp;
-> Python 3.10.12 & pip installed&amp;
+**Prerequisites**amp;
+> miniconda/anaconda installedamp;
+> Python 3.10.12 & pip installedamp;
 &amp;
 **Installation Steps**&amp;
 Step 1. generate a virtual environment&amp;
