@@ -6,7 +6,7 @@ this repo contains a demo of a custom made object detector that uses vision tran
 > miniconda/anaconda installed/n
 > Python 3.10.12 & pip installed;/n
 
-**Installation Steps**&amp;
+**Installation Steps**;
 Step 1. generate a virtual environment&amp;
         conda create --name minds_and_machines_env1 python=3.10.12&amp;
 Step 2. download/clone the repo&amp;
