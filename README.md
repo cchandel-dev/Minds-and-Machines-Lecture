@@ -23,6 +23,6 @@ Step 5. push the conda environment to jupyter notebook
 &emsp;&emsp;&emsp;&emsp;`python -m ipykernel install --user --name=minds_and_machines_env1`  
 
 **Open the Jupyter Notebook**  
-Step 1. type 'jupyter notebook' into the command prompt  
+Step 1. type `jupyter notebook` into the command prompt  
 Step 2. select minds_and_machines_env1 kernel  
 Step 3. select/open the Transformer based Object Detection.ipynb file  
