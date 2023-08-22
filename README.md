@@ -9,7 +9,7 @@ this repo contains a demo of a custom made object detector that uses vision tran
 **Installation Steps**  
 
 Step 1. generate a virtual environment  
-    conda create --name minds_and_machines_env1 python=3.10.12  
+&emsp;&emsp;conda create --name minds_and_machines_env1 python=3.10.12  
 Step 2. download/clone the repo  
 &emsp;&emsp;git clone 'enter hash here  
 &emsp;&emsp;&emsp;&emsp;OR  
