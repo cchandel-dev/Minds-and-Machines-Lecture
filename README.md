@@ -9,16 +9,16 @@ this repo contains a demo of a custom made object detector that uses vision tran
 **Installation Steps**  
 
 Step 1. generate a virtual environment  
-        conda create --name minds_and_machines_env1 python=3.10.12  
+&emsp;&emsp;conda create --name minds_and_machines_env1 python=3.10.12  
 Step 2. download/clone the repo  
-        git clone 'enter hash here  
-                    OR  
-        just download this repo through the github page  
+&emsp;&emsp;git clone 'enter hash here  
+&emsp;&emsp;&emsp;&emsp;OR  
+&emsp;&emsp;just download this repo through the github page  
 Step 3. navigate to where the repo is downloaded locally (use cd in Windows) and then step into the virtual environment  
-        cd 'enter path here'  
-        conda activate minds_and_machines_env1  
+&emsp;&emsp;cd 'enter path here'  
+&emsp;&emsp;conda activate minds_and_machines_env1  
 Step 4. install all of the required modules  
-        python -m ipykernel install --user --name=minds_and_machines_env1  
+&emsp;&emsp;python -m ipykernel install --user --name=minds_and_machines_env1  
 Step 5. push the conda environment to jupyter notebook  
   
 **Open the Jupyter Notebook**  
