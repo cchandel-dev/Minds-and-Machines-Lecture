@@ -3,8 +3,8 @@ this repo contains a demo of a custom made object detector that uses vision tran
 
 
 **Prerequisites**
-> miniconda/anaconda installedamp;
-> Python 3.10.12 & pip installedamp;
+> miniconda/anaconda installed/n
+> Python 3.10.12 & pip installed;/n
 &amp;
 **Installation Steps**&amp;
 Step 1. generate a virtual environment&amp;
