@@ -1,8 +1,7 @@
 # Minds-and-Machines-Lecture
 this repo contains a demo of a custom made object detector that uses vision transformers that was shown at Western Universities Minds &amp; Machines Lecture Series
 
-***YOU DON'T NEED TO FOLLOW ALL OF THE INSTALLATION INSTRUCTIONS IF YOU ARE JUST INTERESTED IN VIEWING THE CODE AND IMAGES.***   
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;***JUST CLICK ON .IPYNB FILE AND SCROLL THROUGH**   
+***YOU DON'T NEED TO FOLLOW ALL OF THE INSTALLATION INSTRUCTIONS IF YOU ARE JUST INTERESTED IN VIEWING THE CODE AND IMAGES. JUST CLICK ON .IPYNB FILE AND SCROLL THROUGH***   
 
 **Prerequisites**  
 [ ] miniconda/anaconda installed  
