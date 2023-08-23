@@ -5,7 +5,7 @@ this repo contains a demo of a custom made object detector that uses vision tran
 **Prerequisites**  
 [ ] miniconda/anaconda installed  
 [ ] python 3.10.12 & pip installed  
-[ ] git installed on CLI
+[ ] git installed on CLI  
 [ ] download this kaggle dataset  
 &emsp;&emsp;&emsp;&emsp;`https://www.kaggle.com/datasets/techzizou/labeled-mask-dataset-yolo-darknet`   
 
