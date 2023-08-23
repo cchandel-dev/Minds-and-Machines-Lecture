@@ -3,6 +3,8 @@ this repo contains a demo of a custom made object detector that uses vision tran
 
 ***YOU DON'T NEED TO FOLLOW ALL OF THE INSTALLATION INSTRUCTIONS IF YOU ARE JUST INTERESTED IN VIEWING THE CODE AND IMAGES. JUST CLICK ON THE Transformer based Object Detection - Custom Dataset.ipynb FILE AND SCROLL THROUGH.***   
 
+https://docs.google.com/presentation/d/1m8sDuVW1-Ws_y5X_Cg3kDFLZr86QT5NLqlHOs6sgehY/edit?usp=sharing
+
 **Prerequisites**  
 [ ] miniconda/anaconda installed  
 [ ] python 3.10.12 & pip installed  
