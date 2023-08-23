@@ -5,6 +5,7 @@ this repo contains a demo of a custom made object detector that uses vision tran
 **Prerequisites**  
 [ ] miniconda/anaconda installed  
 [ ] python 3.10.12 & pip installed  
+[ ] git installed on CLI
 [ ] download this kaggle dataset  
 &emsp;&emsp;&emsp;&emsp;`https://www.kaggle.com/datasets/techzizou/labeled-mask-dataset-yolo-darknet`   
 
@@ -13,7 +14,7 @@ this repo contains a demo of a custom made object detector that uses vision tran
 Step 1. generate a virtual environment  
 &emsp;&emsp;&emsp;&emsp;`conda create --name minds_and_machines_env1 python=3.10.12`  
 Step 2. download/clone the repo  
-&emsp;&emsp;&emsp;&emsp;`git clone 'enter hash here'`  
+&emsp;&emsp;&emsp;&emsp;`git clone https://github.com/cchandel-dev/Minds-and-Machines-Lecture.git`  
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;OR  
 &emsp;&emsp;&emsp;&emsp;just download this repo through the github page  
 Step 3. navigate to where the repo is downloaded locally (use cd in Windows) and then step into the virtual environment  
